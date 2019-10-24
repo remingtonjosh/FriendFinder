@@ -1,5 +1,19 @@
+body {
+    text-align: center;
+}
+
 .form-group {
     width: 600px;
     margin: auto;
+    text-align: center;
+}
 
+.form-control{
+    margin: 10px;
+    border-color: rgb(189, 23, 23);
+}
+
+.footer {
+    text-align: centeer;
+    margin: auto;
 }
